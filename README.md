@@ -1,2 +1,2 @@
 # Weakly-Supervised-Learning-to-Rank
-CS 5604 Information Storage and Retrieval
+Project for CS 5604 Information Storage and Retrieval course
